@@ -6,7 +6,7 @@ The code uses numpy, scipy, matplotlib, and (importantly) is based off the burnm
 
 The file VenusStructureMonteCarlo.py performs the optimisation, producing a datafile of Inner/Outer core optimised radii for a range of input variables/compositions.
 
-VenusStrucPlot.py creates a plot of (two) internal structures, and calculate internal temperatures from Aitta (2012), and plots against 2 solidii (Steinbrugge et al. 2021 and Anzellini et al., 2013).
+VenusPlotStructure.py creates a plot of (two) internal structures, and calculate internal temperatures from Aitta (2012), and plots against 2 solidii (Steinbrugge et al. 2021 and Anzellini et al., 2013).
 
 
 
